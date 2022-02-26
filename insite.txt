@@ -1,0 +1,12 @@
+spliting data dibagi 2 untuk di fit
+- data uji 20%
+- data trainig 80%
+tools sklern train tes split
+
+pembuatan model nb training menggunakan data training
+
+model prediksi nya pake data uji
+
+nampilin confusion matrix
+- sklern matrix
+- seaborn
